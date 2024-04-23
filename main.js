@@ -1,6 +1,7 @@
 #! /usr/bin/env node
 import inquirer from "inquirer";
-console.log("Pin is 1010");
+console.log("\n", "Pin is 1010", "\n");
+// I use "\n" in my every console log to add a line break
 let myAccountBalance = 9999;
 let myPin = 1010;
 let pinAnswer = await inquirer.prompt([

@@ -5,6 +5,11 @@
   "main": "main.js",
   "type":"module",
   "bin": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Meer-001/ATM-Machine.git"
+  },
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
